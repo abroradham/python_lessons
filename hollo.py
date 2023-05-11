@@ -1,1 +1,3 @@
-ECHO is on.
+a = 'Hello World!'
+
+print (a)
