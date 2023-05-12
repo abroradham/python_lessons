@@ -48,6 +48,8 @@ def son_top():
     
        if len(a) < len(q):
          print(f"Siz yutdingiz")
+       elif len(a) == len(q):
+         print("Birhil natija qayd etdik!")
        else :
         print("Men yutdim")
 
