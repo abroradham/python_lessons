@@ -98,6 +98,6 @@ talaba1.fanga_yozil(matematika)
 talaba1.fanga_yozil(ingliz_tili)
 
 
-print(talaba1.yozilgan_fanlar())
+
 
 
