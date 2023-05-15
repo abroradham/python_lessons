@@ -27,6 +27,7 @@ class User:
 
 
 user1 = User("abroradham", "Abror", "Nematjanov", "abrornematjanov1@gmail.com", +998913450551)
+user2 = User("sardor_adhamovich", "Sardor", "nematjanov", "sardoradhamovich@gmail.com", +998882541212)
 
 
 
