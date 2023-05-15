@@ -57,5 +57,6 @@ avto1.set_price(18000)
 avto2.set_price(15000)
 
 
-# print(lux.get_avtos())
+
+print(lux.get_avtos())
 print(lux.get_info_salon())
