@@ -81,8 +81,7 @@ talaba2 = Talaba("Asror", "Ataxanov", "AA9074565", 2001, talaba2_manzil, )
 talaba1.set_id("5778011d-9e7e-4f14-b832-d80fd5d443d4 ")
 talaba2.set_id("58eb1bf1-feb7-4b3b-b101-aacddc81564e")
 
-print(talaba2.get_id())
-print(Talaba.get_num_talaba())
+
 
 
 
