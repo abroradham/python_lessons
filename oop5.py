@@ -137,3 +137,4 @@ fan1 = Fan("Matematika")
 fan1.add_student(talaba1)
 fan1 + talaba2
 fan1 + talaba3
+print(fan1())
