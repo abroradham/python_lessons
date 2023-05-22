@@ -212,19 +212,19 @@
 #                   'Pul birligi' : 'rinngit'}
 # }
 
-# # for n, malumot in davlatlar.items():
-# #     print (f"\n{n}ning poytaxti {malumot['poytaxt']}"
-# #            f"\nHududi: {malumot['Hududi']} kv.km"
-# #            f"\nAholisi: {malumot['Aholisi']}"
-# #            f"\nPul birligi: {malumot['Pul birligi']}")
+for n, malumot in davlatlar.items():
+     print (f"\n{n}ning poytaxti {malumot['poytaxt']}"
+            f"\nHududi: {malumot['Hududi']} kv.km"
+            f"\nAholisi: {malumot['Aholisi']}"
+            f"\nPul birligi: {malumot['Pul birligi']}")
     
-# sorov = input('Davlat nomini kiriting:').capitalize()
-# if sorov in davlatlar:
-#     a = davlatlar[sorov]
+ sorov = input('Davlat nomini kiriting:').capitalize()
+ if sorov in davlatlar:
+     a = davlatlar[sorov]
     
-#     print (f"\n{sorov}ning poytaxti {a['poytaxt']}"
-#            f"\nHududi: {a['Hududi']} kv.km"
-#            f"\nAholisi: {a['Aholisi']}"
+     print (f"\n{sorov}ning poytaxti {a['poytaxt']}"
+            f"\nHududi: {a['Hududi']} kv.km"
+            f"\nAholisi: {a['Aholisi']}"
 #            f"\nPul birligi: {a['Pul birligi']}")
 # else:
 #     print(f'Bizda bu davlat haqida malumot yoq!')
