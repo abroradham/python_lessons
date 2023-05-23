@@ -1,12 +1,12 @@
 # # Task 1
 
-# def katta_son_qaytar(a, b, c):
-#     if a>b and a>c:
-#         return a
-#     elif a<b and b>c:
-#         return b
-#     else:
-#         return c
+ def katta_son_qaytar(a, b, c):
+     if a>b and a>c:
+         return a
+     elif a<b and b>c:
+         return b
+     else:
+         return c
 
 
 # a = int(input('Son: '))
