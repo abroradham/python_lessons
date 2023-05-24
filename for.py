@@ -1,6 +1,6 @@
-# mehmonlar = ['Aliy', 'Vali', 'Hasan', 'Husan', 'Olim']
-# for mehmon in mehmonlar:
-#     print(mehmon)
+ mehmonlar = ['Aliy', 'Vali', 'Hasan', 'Husan', 'Olim']
+ for mehmon in mehmonlar:
+     print(mehmon)
 
 
 
